@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">YiannisApp</string>
+    <!-- Starter order section -->
+    <string name="starters">Starters</string>
+    <!-- Mains order section -->
+    <string name="mains">Mains</string>
+    <!-- Starter order section -->
+    <string name="desserts">Home Made Desserts</string>
+    <!--Order button -->
+    <string name="order">ORDER</string>
+    <!--Quantity required -->
+    <string name = "quantity">QUANTITY</string>
+    <!--Summary of the order-->
+    <string name = "orderSummary">ORDER SUMMARY</string>
+    <!--Universal symbol for plus -->
+    <string name = "plus" translatable="false"> + </string>
+    <!--Universal symbol for minus -->
+    <string name = "minus" translatable="false"> - </string>
+    <!--An integer -->
+    <string name = "number" translatable="false">0</string>
+    <!--Currency symbol-->
+    <string name = "cost" translatable="false">£0</string>
+    <!--Body text line for if halloumi was required-->
+    <string name = "halloumi">V(GF)Grilled Halloumi - </string>
+    <!-- Halloumi description -->
+    <string name="halloumi_description">With balsamic glaze on bed of mixed leaves</string>
+    <!-- body of text for Halloumi price -->
+    <string name="halloumi_price">£4.80</string>
+    <!-- body of text for kolokithokeftedes price -->
+    <string name="kolokithokeftedes_price">£5.00</string>
+    <!-- body of text for keftedes description -->
+    <string name="keftedes_description">Meatballs in rich Napoli sauce with feta</string>
+    <!-- body of text for keftedes price -->
+    <string name="keftedes_price">£5.00</string>
+    <!-- body of text for kolokithokeftedes description -->
+    <string name="kolokithokeftedes_description">Courgettes and Feta Fritters - \nServed with Greek Yoghurt, fresh herbs and lime dressing</string>
+    <!--Body text line for if keftedes was required-->
+    <string name = "keftedes">Keftedes - </string>
+    <!--Body text line for if kolokithokeftedes was required-->
+    <string name = "kolokithokeftedes">(V)Kolokithokeftedes - </string>
+    <!--Body text line for if salad was required-->
+    <string name = "salad">GF(V)Traditional Greek Salad - </string>
+    <!-- body of text for salad price -->
+    <string name="salad_price">£4.30</string>
+    <!-- body of text for halloumi pancetta price -->
+    <string name="halloumi_pancetta_price">£5.50</string>
+    <!--Body text line for if halloumi_pancetta was required-->
+    <string name = "halloumi_pancetta">(GF)Grilled Halloumi and \ncrispy pancetta - </string>
+    <!-- body of text for salad description -->
+    <string name="salad_description">Vegetarian</string>
+    <!-- body of text for halloumi_pancetta description -->
+    <string name="halloumi_pancetta_description">Halloumi with crispy streaky bacon mixed leaves and raspberries dressing</string>
+    <!-- body of text for calimari  -->
+    <string name="calamari">Calamari Tiganito - </string>
+    <!-- body of text for Calimari description -->
+    <string name="calimari_description">Deep fried calamari with Yoghurt and tomato dip with mixed lettuce.</string>
+    <!-- body of text for calamari price -->
+    <string name="calamari_price">£5.00</string>
+    <!-- body of text for patzarosalata salad -->
+    <string name="patzarosalata">GF(V)Patzarosalata \nbeetroots salad - </string>
+    <!-- body of text for patzarosalata description -->
+    <string name="patzarosalata_description">Served with oranges, garlic, yoghurt, mayo with wild rocket</string>
+    <!-- text for patzarosalata_price -->
+    <string name="patzarosalata_price">£4.50</string>
+    <!-- body text for  tirokafteri_price -->
+    <string name="tirokafteri_price">£2.70</string>
+    <!-- subject line for tirokafteri text -->
+    <string name="tirokafteri">Tirokafteri - </string>
+    <!-- body text for  tsatziki_price -->
+    <string name="tsatziki_price">£2.50</string>
+    <!-- body of text for tsatziki-->
+    <string name="tsatziki">Tsatziki - </string>
+    <!-- body text for  hummus_price -->
+    <string name="hummus_price">£2.50</string>
+    <!-- body of text for hummus-->
+    <string name="hummus">Hummus - </string>
+    <!--Body text line for if gyros topping was required-->
+    <string name = "gyros_open">(GF)Gyros Chicken - Open - </string>
+    <!--Body text line for if gyros topping was required-->
+    <string name = "gyros_wrapped">(GF)Gyros Chicken - Wrapped - </string>
+    <!-- Halloumi description -->
+    <string name="gyros_description">Served with tsatziki, tomatoes, red onions, fries, and Greek pitta</string>
+    <!-- body of text for gyros price open -->
+    <string name="gyros_price_open">£9.90</string>
+    <!-- body of text for gyros price wrapped -->
+    <string name="gyros_price_wrapped">£5.00</string>
+    <!--Body text line for mixed souvlaki -->
+    <string name = "mixed_souvlaki">(GF)Mixed Souvlaki\n"Kebab" - </string>
+    <!-- body of text for mixed_souvlaki description -->
+    <string name="mixed_souvlaki_description">Lamb shish, spicy Chicken, Pork and Greek sausage, served with salad, tsatziki, French fries and pitta</string>
+    <!-- body of text for mixed_souvlaki price -->
+    <string name="mixed_souvlaki_price">11.90</string>
+    <!--Body text line for pork souvlaki -->
+    <string name = "pork_souvlaki">(GF)Pork Souvlaki - </string>
+    <!-- body of text for pork_souvlaki description -->
+    <string name="pork_souvlaki_description">Marinated pork fillet with orange, lemon juice and apple cider vinegar with herbs and spices. \nServed with Greek salad, tsatziki, French fries and pitta</string>
+    <!-- body of text for pork_souvlaki price -->
+    <string name="pork_souvlaki_price">11.50</string>
+    <!--Body text line for chicken souvlaki -->
+    <string name = "chicken_souvlaki">(GF)Chicken Souvlaki - </string>
+    <!-- body of text for chicken_souvlaki description -->
+    <string name="chicken_souvlaki_description">Marinated in Greek yoghurt, chilli sauce \ncinnamon and lime. \nServed with Greek salad, tsatziki, French fries and pitta</string>
+    <!-- body of text for chicken_souvlaki price -->
+    <string name="chicken_souvlaki_price">11.50</string>
+    <!--Body text line for if yiaourtlou was required-->
+    <string name = "yiaourtlou">Yiaourtlou "Kofta kebab" - </string>
+    <!-- body of text for yiaourtlou description -->
+    <string name="yiaourtlou_description">Lamb mince mixed with spices, fresh herbs and caramelised onions chargrilled.\nServed with Greek pitta, topped with tomato sauce, tsatziki, mixed salad and fries</string>
+    <!-- body of text for yiaourtlou price -->
+    <string name="yiaourtlou_price">£11.50</string>
+    <!--Body text line for if seftalies was required-->
+    <string name = "seftalies">Seftalies from Cyprus - </string>
+    <!-- body of text for seftalies description -->
+    <string name="seftalies_description">Pork and beef minced meat with herbs and onions, wrapped in caul fat served with salad, fries, tsatziki and pitta</string>
+    <!-- body of text for seftalies price -->
+    <string name="seftalies_price">£11.50</string>
+    <!--Body text line for if moshari was required-->
+    <string name = "moshari">Moshari Stifado - </string>
+    <!-- body of text for moshari description -->
+    <string name="moshari_description">Beef slowly cooked casserole in red wine, shallots, and fresh herbs.\nServed with rice</string>
+    <!-- body of text for moshari price -->
+    <string name="moshari_price">£11.90</string>
+    <!-- body of text for meat_mousaka  -->
+    <string name="meat_moussaka">Meat Moussaka - </string>
+    <!-- body of text for meat_mousaka description -->
+    <string name="meat_moussaka_description">Potatoes, aubergines, courgettes layered with mince, cheese béchamel sauce.\nServed with salad</string>
+    <!-- body of text for meat_mousaka price -->
+    <string name="meat_moussaka_price">£11.50</string>
+    <!-- body of text for veg_mousaka  -->
+    <string name="veg_moussaka">Vegetable Moussaka - </string>
+    <!-- body of text for veg_mousaka description -->
+    <string name="veg_moussaka_description">Potatoes, aubergines, courgettes in layers with, cheese béchamel sauce.\nServed with salad</string>
+    <!-- body of text for veg_mousaka price -->
+    <string name="veg_moussaka_price">£11.50</string>
+    <!-- body of text for spanakopita -->
+    <string name="spanakopita">(V)Spanakopita - </string>
+    <!-- body of text for spanakopita description -->
+    <string name="spanakopita_description">Home-made Greek pie with filo pastry, spinach, dill, spring onions and feta.\nServed with Greek salad</string>
+    <!-- text for spanakopita_price -->
+    <string name="spanakopita_price">£9.90</string>
+    <!-- text for open price gyros -->
+    <string name="open">Open</string>
+    <!-- text for wrapped price gyros -->
+    <string name="wrapped">Wrapped</string>
+    <!-- body of text for baklava  -->
+    <string name="baklava">Baklava - </string>
+    <!-- body of text for baklava price -->
+    <string name="baklava_price">£4.50</string>
+    <!-- body of text for galactobureko  -->
+    <string name="galactobureko">Galactobureko - </string>
+    <!-- body of text for galactobureko description -->
+    <string name="galactobureko_description">Galactoburecko is a traditional Greek dessert made with custard\nIn Greek filo pastry topped with orange and lemon light syrup Yianniss mum recipe</string>
+    <!-- body of text for galactobureko price -->
+    <string name="galactobureko_price">£4.50</string>
+    <!-- body of text for chocolate cake -->
+    <string name="cake">Chocolate cake - </string>
+    <!-- body of text for chocolate cake description -->
+    <string name="cake_description">Topped with dark and white chocolate sauce.\nExplosion of chocolate in your mouth</string>
+    <!-- text for chocolate cake_price -->
+    <string name="cake_price">£4.80</string>
+    <!-- body of text for ravani -->
+    <string name="ravani">Ravani - </string>
+    <!-- body of text for ravani description -->
+    <string name="ravani_description">Semolina sponge cake shocked in orange, lemon, cinnamon and honey syrup, topped with fresh cream and walnuts</string>
+    <!-- text for ravani_price -->
+    <string name="ravani_price">£4.80</string>
+    <!-- address string -->
+    <string name="address">132, Wollaton Road,\nBeeston,\nNottingham\nNottinghamshire,\nNG9 2PE.</string>
+    <!-- telephone string -->
+    <string name="telephone">0115 922 9475</string>
+
+    <!--Subject line for customer to add own name -->
+    <string name="addName">Add Name </string>
+    <!--Subject line for customer to add own telephone number -->
+    <string name="addTelephone">Add Your Telephone Number </string>
+    !--Subject line for customer to add collection time -->
+    <string name="time">When would you like to collect\? </string>
+    <!--Subject line for Java order with customers name-->
+    <string name="yiannis_order">Yiannis Takeaway Order for: "</string>
+    <!--Body text line for gratitude-->
+    <string name="thank_you">Thank you!</string>
+    <string name="total" translatable="false">Total: £ </string>
+    <string name="Quantity">Quantity: </string>
+    <!--First Body text line for name-->
+    <string name="summary_order_name">Name:  </string>
+    <string name="cust_telephone">Your Telephone Number: </string>
+    <string name="collect_time">Order Collection Time: </string>
+    <string name="leaf">leaf</string>
+</resources>
