@@ -1082,6 +1082,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+    @SuppressLint("IntentReset")
     public void submitOrder(View view) {
         submit_order_quantity = submit_order_quantity + 1;
         EditText enterName = findViewById(R.id.nameBar);
@@ -1098,6 +1099,7 @@ public class MainActivity extends AppCompatActivity {
             email.setData(Uri.parse("mailto: cullendeveloper@gmail.com")); // only email apps should handle this
             email.putExtra(Intent.EXTRA_SUBJECT, getString(R.string.yiannis_order) + showName);
             email = email.putExtra(Intent.EXTRA_TEXT, priceMessage);
+
             if (email.resolveActivity(getPackageManager()) != null) {
                 startActivity(email);
             }
